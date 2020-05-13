@@ -1,12 +1,12 @@
-<h1 align="center">Royal Lines @stageInspectiveZutphen</h1>
+<h1 align="center">Programmeren </h1>
 
-<p align="center"><b>Via deze website is het mogelijk om vakanties op cruisseschepen te boeken. De website is gemaakt met behulp van een template voor mijn stage bij Inspective in Zutphen.</b>
+<p align="center"><b>Dit project is het eindproduct van programmeren. Een project uit jaar 1 van mijn opleiding Communication and Mulitmedia design in Amsterdam</b>
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://zeijls.github.io/OceanCruises/">
+  <a href="https://zeijls.github.io/EindopdrachtProgrammeren/">
     <img src="https://img.shields.io/badge/demo-LIVE-brightgreen.svg?style=flat-square" alt="demo">
   </a>
   &nbsp;&nbsp;&nbsp;
